@@ -1,10 +1,70 @@
 LE FONCTIONNEMENT
 
 
+DARKNET
+-Le Darknet est un espace digital qui a été inventé dans les années 70 dans le but d’isoler
+ certains réseaux de l’internet commun. Il s’agit d’un réseau superposé qui héberge plusieurs
+ sites impossibles à trouver sur le réseau Internet public avec les navigateurs traditionnels
+ (Chrome, Firefox, Safari). C’est pourquoi on parle souvent de réseau caché.
+ Par contre, les réseaux Darknets reposent sur Internet pour fonctionner.
 
 
-Le Dark Web est un ensemble caché de sites Internet accessibles uniquement par un navigateur spécialement conçu à cet effet.
-Il est utilisé pour préserver l'anonymat et la confidentialité des activités sur Internet, ce qui peut être utile aussi bien pour les applications légales que pour les applications illégales.
-Si certains l'utilisent pour échapper à la censure gouvernementale, d'autres s'en servent également pour mener des activités hautement illégales.
+DEEPWEB
+-Le Deep Web regroupe des pages non indexées mais accessibles par les moteurs de recherche
+ avec un navigateur classique. Il suffit en général de connaître l’URL ou un mot de passe spécifique. On trouve, par exemple, des sites de Torrent, des intranets professionnels, des sites gouvernementaux, des bases de données académiques ou encore des rapports scientifiques.
+ Au sein du Deep Web, il y a le Dark Web. Le Dark Web ou web clandestin représente une petite
+ partie du Deep Web. Il recense des sites cachés (ou non-indexés) non accessibles par le biais
+ d’un navigateur conventionnel. Pour résumer, le Dark Web utilise le réseau Internet que nous connaissons mais les contenus
+ ne sont visibles qu’en ayant recours à des logiciels ou des protocoles bien spécifiques.
 
 
+COMMENT Y ACCEDER?
+-On accède au dark web à travers différents darknets tels que Tor (acronyme pour The Onion Router)
+ ou I2P (Invisible Internet Project). Pour Tor, on utilise un navigateur spécifique (le Tor Browser),
+ qui permet d'accéder aux sites cachés avec une adresse se terminant en « .onion ».
+ Tor est de loin le plus important des darknets, mais I2P et Freenet hébergent également
+ des sites cachés.
+
+
+FONCTIONNEMENT DU TOR?
+-Grâce à la technologie sur laquelle il repose, le réseau Tor assure un anonymat optimal
+ aux utilisateurs. Il y a un nœud d’entrée, un intermédiaire et un nœud de sortie.
+ Normalement, l’adresse IP est visible par le destinataire, mais avec Tor et ses trois
+ nœuds de séparation, il est possible d’échanger avec un tiers sans identifier l’IP
+ de son correspondant ou de se rendre sur un site sans que ce dernier puisse prendre
+ connaissance de l’identité de l’usager.Attention, la sécurité de Tor n’est pas infaillible.
+ Un bug s’est même déjà produit il y a quelques années. C’est pour cette raison qu’il est
+ conseillé d’installer une application VPN (Virtual Private Network) et de l’activer avant
+ de se rendre sur Tor.
+
+
+POURQUOI AVOIR UN VPN?
+-De cette façon, votre adresse IP source sera masquée ainsi que votre localisation réelle.
+La connexion au VPN avant d’utiliser Tor apporte donc une couche de protection supplémentaire
+ qui empêchera votre fournisseur d’accès Internet de savoir que vous vous rendez sur le Darknet.
+ En temps normal, cette information est visible. De plus, votre adresse IP ne sera jamais rendue
+ publique sur Tor puisque vous utilisez celle du VPN dès le nœud d’entrée.
+ Cela limite considérablement les risques de fuite et de tracking.
+
+
+OU SE RENDRE POUR ACCEDER AU DARKWEB?
+-Il est conseillé de se rendre sur un annuaire comme Hidden Wiki qui répertorie les
+ pages web non indexées par catégorie. Les URLs sont en .onion. Même Facebook a une
+ adresse en .onion pour que les usagers puissent utiliser le réseau social via Tor
+ lorsqu’ils se trouvent dans des pays interdisant l’accès à Facebook.
+
+
+
+LES PRECAUTIONS
+-Pour terminer, nous souhaitons vous mettre en garde lorsque vous entrez sur le Dark Web
+ car ce réseau échappe à la régulation – pour le plus grand bonheur des hackers.
+ En plus des arnaques, on y trouve aussi de nombreux logiciels malveillants types malwares.
+ Vous devez donc redoubler de vigilance.
+
+-Il est déconseillé de télécharger des fichiers depuis le Darknet et de communiquer son
+ identité (nom, prénom, adresse). Si vous utilisez Tor Browser, veillez à avoir la dernière
+ mise à jour.
+
+-Aussi, l’utilisation d’un VPN fiable comme ExpressVPN est fortement recommandée pour accroître
+ sa confidentialité et masquer le fait que l’on utilise Tor auprès de son fournisseur d’accès
+ Internet.
